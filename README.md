@@ -10,4 +10,4 @@ blockchain-voting-system/
 │   ├── success.html
 │   ├── results.html
 │   └── chain.html
-└── blockchain.json 
+└── blockchain.json (auto-generated
